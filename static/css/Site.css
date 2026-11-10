@@ -1,0 +1,20 @@
+﻿body {
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+
+td.dgHead {
+    color:#095fa0;
+    text-align:right;
+    width:25%;
+    padding:5px 5px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+td.dgText {
+    color:black;
+    text-align:left;
+    padding:5px 5px;
+    font-family:Arial, Helvetica, sans-serif;
+}
